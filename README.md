@@ -109,6 +109,11 @@ Adobe Brackets
 Cross Platform development tool from Adobe
 Take a screenshot from the ABOUT tab in your IDE to show the installed version
 
+...
+
+<img width="662" alt="vs-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/db1a3f01-1c02-4abc-bb33-623a5695cf67">
+...
+
 Install Git Client for Version Control
 Version Control is vital to modern software development and we will be using our Package Manger to install the Git Client for our respective operating systems. Note, this is different from the GitHub Desktop tool, which we will not be using this semester.
 
