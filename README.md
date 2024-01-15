@@ -74,6 +74,9 @@ For MacOS, newer versions use the Z shell. This is due to Apple not using GPLv3+
 
 Open a terminal and type the commands: zsh --version and ssh -V and take a screenshot of the output
 
+...
+
+<img width="583" alt="modernSHELL-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/6ec4f96a-67c1-483b-b51a-55d597980dce">
 
 ...
 
