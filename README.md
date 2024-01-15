@@ -142,6 +142,12 @@ Install VirtualBox or Parallels
 If you do not already have VirtualBox 6.x installed, use your package manager to install VirtualBox. VirtualBox will be our virtualization platform we are using this semester. It is a robust opensource product and can be used to create and host machines on our local systems. It has integration with automation tools such as Packer and Vagrant from HashiCorp.
 
 Take a screenshot of the VirtualBox > Help > About VirtualBox output or from the Terminal: vboxmanage --version (Windows or Intel MacOS)
+...
+<img width="631" alt="virtualbox-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/7086adb9-0e35-4e6f-b335-e01dc021432d">
+...
+
+
+
 
 For those using an M1 Mac we will require a Pro License from Parallels.
 
