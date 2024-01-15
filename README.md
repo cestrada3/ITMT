@@ -170,6 +170,11 @@ Packer is another automation tool from HashiCorp. Whereas Vagrant was for runnin
 Using a package manager, install the latest version of Packer. If you have a version > 1.6.x you will be ok. Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.
 
 Take a screenshot of the output of the command: packer --version
+...
+
+<img width="716" alt="packer-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/4d6cc162-b38e-4920-854c-066aa030ee80">
+
+...
 
 Oh-My-Git Tutorial
 Download the proper Oh My Git! tutorial the program runs as a self contained executable on your system (Windows Mac or Linux).
