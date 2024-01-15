@@ -74,6 +74,9 @@ For MacOS, newer versions use the Z shell. This is due to Apple not using GPLv3+
 
 Open a terminal and type the commands: zsh --version and ssh -V and take a screenshot of the output
 
+<img width="648" alt="git-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/368f8be0-8687-44be-b196-0e1e5a3d15cd">
+
+
 Installation of a Modern Terminal
 A Terminal is a way to run and manage multiple shell together, not unlike a web-browser, in a single managed window. You will spend much time on in a shell during your career, the Terminal is a huge helper.
 
