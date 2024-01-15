@@ -182,6 +182,9 @@ Download the proper Oh My Git! tutorial the program runs as a self contained exe
 Complete the tutorial and take screenshots of the completed sections (may need to take a few shots as the there are many sections).
 
 This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and want to learn it. You can leave the last section out, Sandbox, it is an open area for you to experiment in and no real way to "complete it."
+...
+<img width="1680" alt="ohmygit" src="https://github.com/cestrada3/ITMT/assets/112581610/7ae49719-8c19-4e53-a923-d5b87597f7c3">
+...
 
 Create and Push your Readme.md
 In this step you will clone the Private GitHub repo you have been provided with by the professor (you received an invite email to it) to your local system. In the root of this repo you will create a file named Readme.md and a folder named images. This Readme.md will contain the elements below written in Markdown. This is a good Markdown cheat-sheet reference.
