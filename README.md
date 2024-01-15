@@ -90,6 +90,13 @@ Open the Windows Terminal and select from the drop down arrow, the ABOUT tab, an
 On MacOS, there is a terminal called iterm2
 
 Open the iterm2 Terminal and from the File > About section take a screenshot of the version output
+..
+
+
+<img width="629" alt="iterm2-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/2f29b076-d9d6-4d54-81d6-475e9847148a">
+
+
+..
 
 Install IDE editor with native version control support
 We will be installing an text editor or and IDE for all of our coding and configuration. The key is one with native version control tooling integrated. There are many and all can be installed via your OSes package manager, here are a list:
