@@ -74,6 +74,15 @@ For MacOS, newer versions use the Z shell. This is due to Apple not using GPLv3+
 
 Open a terminal and type the commands: zsh --version and ssh -V and take a screenshot of the output
 
+...
+
+<img width="583" alt="modernSHELL-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/6ec4f96a-67c1-483b-b51a-55d597980dce">
+
+...
+
+
+
+
 Installation of a Modern Terminal
 A Terminal is a way to run and manage multiple shell together, not unlike a web-browser, in a single managed window. You will spend much time on in a shell during your career, the Terminal is a huge helper.
 
@@ -84,6 +93,13 @@ Open the Windows Terminal and select from the drop down arrow, the ABOUT tab, an
 On MacOS, there is a terminal called iterm2
 
 Open the iterm2 Terminal and from the File > About section take a screenshot of the version output
+..
+
+
+<img width="629" alt="iterm2-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/2f29b076-d9d6-4d54-81d6-475e9847148a">
+
+
+..
 
 Install IDE editor with native version control support
 We will be installing an text editor or and IDE for all of our coding and configuration. The key is one with native version control tooling integrated. There are many and all can be installed via your OSes package manager, here are a list:
@@ -96,10 +112,19 @@ Adobe Brackets
 Cross Platform development tool from Adobe
 Take a screenshot from the ABOUT tab in your IDE to show the installed version
 
+...
+
+<img width="662" alt="vs-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/db1a3f01-1c02-4abc-bb33-623a5695cf67">
+...
+
 Install Git Client for Version Control
 Version Control is vital to modern software development and we will be using our Package Manger to install the Git Client for our respective operating systems. Note, this is different from the GitHub Desktop tool, which we will not be using this semester.
 
 Take a screenshot of the output of the command: git --version
+..
+<img width="648" alt="git-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/368f8be0-8687-44be-b196-0e1e5a3d15cd">
+
+..
 
 Configure Git Client
 You will need to configure Git if you already haven't done so. From a shell run these two commands:
@@ -117,6 +142,12 @@ Install VirtualBox or Parallels
 If you do not already have VirtualBox 6.x installed, use your package manager to install VirtualBox. VirtualBox will be our virtualization platform we are using this semester. It is a robust opensource product and can be used to create and host machines on our local systems. It has integration with automation tools such as Packer and Vagrant from HashiCorp.
 
 Take a screenshot of the VirtualBox > Help > About VirtualBox output or from the Terminal: vboxmanage --version (Windows or Intel MacOS)
+...
+<img width="631" alt="virtualbox-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/7086adb9-0e35-4e6f-b335-e01dc021432d">
+...
+
+
+
 
 For those using an M1 Mac we will require a Pro License from Parallels.
 
@@ -130,15 +161,20 @@ Vagrant is a tool from HashiCorp. This tool is used to abstract away the Virtual
 Using your package manager, install the latest version of Vagrant. If you have a version 2.2.x you will be ok. Note, if using Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.
 
 Take a screenshot of the output of the command: vagrant --version
-
-![]
-
+...
+<img width="587" alt="vagrant-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/754f15dd-8c27-48e5-b1a0-2c6842c84a8c">
+...
 Install Packer.io
 Packer is another automation tool from HashiCorp. Whereas Vagrant was for running virtual machines, Packer's job is to build virtual machine images from a template language. This tool allows fast infrastructure deployment, multi-provider portability, improved stability, and greater testability.
 
 Using a package manager, install the latest version of Packer. If you have a version > 1.6.x you will be ok. Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.
 
 Take a screenshot of the output of the command: packer --version
+...
+
+<img width="716" alt="packer-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/4d6cc162-b38e-4920-854c-066aa030ee80">
+
+...
 
 Oh-My-Git Tutorial
 Download the proper Oh My Git! tutorial the program runs as a self contained executable on your system (Windows Mac or Linux).
@@ -146,6 +182,9 @@ Download the proper Oh My Git! tutorial the program runs as a self contained exe
 Complete the tutorial and take screenshots of the completed sections (may need to take a few shots as the there are many sections).
 
 This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and want to learn it. You can leave the last section out, Sandbox, it is an open area for you to experiment in and no real way to "complete it."
+...
+<img width="1680" alt="ohmygit" src="https://github.com/cestrada3/ITMT/assets/112581610/7ae49719-8c19-4e53-a923-d5b87597f7c3">
+...
 
 Create and Push your Readme.md
 In this step you will clone the Private GitHub repo you have been provided with by the professor (you received an invite email to it) to your local system. In the root of this repo you will create a file named Readme.md and a folder named images. This Readme.md will contain the elements below written in Markdown. This is a good Markdown cheat-sheet reference.
