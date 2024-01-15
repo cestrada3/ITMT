@@ -77,7 +77,7 @@ Open a terminal and type the commands: zsh --version and ssh -V and take a scree
 
 ...
 
-<img width="648" alt="git-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/368f8be0-8687-44be-b196-0e1e5a3d15cd">
+
 
 
 Installation of a Modern Terminal
@@ -118,6 +118,10 @@ Install Git Client for Version Control
 Version Control is vital to modern software development and we will be using our Package Manger to install the Git Client for our respective operating systems. Note, this is different from the GitHub Desktop tool, which we will not be using this semester.
 
 Take a screenshot of the output of the command: git --version
+..
+<img width="648" alt="git-sc" src="https://github.com/cestrada3/ITMT/assets/112581610/368f8be0-8687-44be-b196-0e1e5a3d15cd">
+
+..
 
 Configure Git Client
 You will need to configure Git if you already haven't done so. From a shell run these two commands:
